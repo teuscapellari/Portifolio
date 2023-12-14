@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.container-fluid a{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .navbar-brand{
+    margin-right: 100px;
+    font-weight: 900;
+} */
+
+.main{
+    height: 91.1vh;
+    width: 100%;
+    background-color: black;
+}
